@@ -2,7 +2,7 @@ import streamlit as st
 import helper
 import pickle
 
-model = pickle.load(open('D:\\project\\model.pkl','rb'))
+model = pickle.load(open('D:\\Quora_duplicate_project\\model.pkl','rb'))
 # st.image(logo_url, width=100)
 # st.set_page_config(page_title="Duplicate Question Pairs", page_icon="🐙")
 st.header('Duplicate-Question-Pairs')
