@@ -5,3 +5,4 @@ distance
 bs4
 stopwords
 nltk
+re
