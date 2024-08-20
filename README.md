@@ -1,1 +1,1 @@
-# quora_duplcate_checker
+# Quora_Duplcate_Question_Checker
